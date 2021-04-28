@@ -1,0 +1,10 @@
+@model CategoryAddModel
+
+<form method="post" asp-action="Create" asp-controller="Category" class="p-3" >
+    
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-info btn-sm">Kaydet</button>
+</form>

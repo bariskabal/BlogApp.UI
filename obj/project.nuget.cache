@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DFYwvKQYC7ID2Qhd3amfD/d3xNcACtqEEZ6z09vfMaY8hfzDzyCMTfMKN3e5/vKaGE4u3JXM5Xes1fKc416sgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baris\\OneDrive\\Masaüstü\\AspNet\\Blog\\BlogApp.UI\\BlogApp.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baris\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

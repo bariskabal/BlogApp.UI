@@ -1,0 +1,10 @@
+@model CategoryUpdateModel
+
+<form method="post" asp-action="Update" asp-controller="Category" class="p-3" >
+    <input type="hidden" asp-for="Id">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-info btn-sm">Kaydet</button>
+</form>
